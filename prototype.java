@@ -85,3 +85,39 @@ public class prototype {
         }
     }
 }
+
+
+
+
+original Objects:- 
+
+name : realme 10 Pro 5G Coca-Cola Edition
+memory : 128
+battery : 33 watts
+megapixal : 108 mp
+processor : 8 gb
+
+---------------------
+name : oppo A31
+memory : 128
+battery : 4230 mAh
+megapixal : 20 x 1600 pixels 
+processor : 6 gb
+
+---------------------
+prototyped Objects:-
+
+name : realme 10 Pro 5G Coca-Cola Edition
+memory : 128
+battery : 33 watts
+megapixal : 108 mp
+processor : 8 gb
+
+---------------------
+name : oppo A31
+memory : 128
+battery : 4230 mAh
+megapixal : 20 x 1600 pixels
+processor : 6 gb
+
+---------------------
